@@ -74,7 +74,7 @@
     <string name="quick_tiles_bg_no_title">ПРИМІТКА</string>
     <string name="quick_tiles_bg_summary">Всі зміни в кольорах і прозорості фону будуть відображатися безпосередньо на стрічці швидких налаштувань</string>
     <string name="quicksettings_tiles_style">Стиль швидких налаштувань</string>
-    <string name="summary_quicksettings_tiles_style">Перегляд, вибір або зміну виду панелі швидких налаштувань</string>
+    <string name="summary_quicksettings_tiles_style">Перегляд, вибір або зміна виду панелі швидких налаштувань</string>
     <string name="quicksettings_tiles_style_additional_options">Додаткові параметри</string>
     <string name="tiles_per_row_title">Плиток в ряду</string>
     <string name="tiles_per_row_duplicate_landscape_title">Масштабування плиток в ландшафті</string>
@@ -109,7 +109,7 @@
     <!-- Recent Ram Bar -->
     <string name="ram_bar">Рядок використання ОЗУ</string>
     <string name="ram_bar_note_title">Примітка</string>
-    <string name="ram_bar_note_summary">Цей рядок ОЗУ показує фактичне використання андроидом оперативної пам\'яті (ОЗУ). Будь ласка, зверніть увагу, що наявність додатків в кеші допомагає пристрою відкривати додатки набагато швидше. Для подальших пояснень того, як працює управління оперативною пам\'яттю (ОЗУ) у андроиде, натисніть кнопку Довідка.</string>
+    <string name="ram_bar_note_summary">Цей рядок ОЗУ показує фактичне використання андроїдом оперативної пам\'яті (ОЗУ). Будь ласка, зверніть увагу, що наявність додатків в кеші допомагає пристрою відкривати додатки набагато швидше. Для подальших пояснень того, як працює управління оперативною пам\'яттю (ОЗУ) у андроиде, натисніть кнопку Довідка.</string>
     <string name="ram_bar_mode_title">Режим рядка використання ОЗУ</string>
     <string name="ram_bar_mode_dialog_title">Показувати в рядку використання ОЗУ</string>
     <string name="ram_bar_none">Нічого</string>
