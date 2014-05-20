@@ -141,7 +141,7 @@
     <string name="shortcut_image_not_valid">Вибрана програма містить неприпустиму іконку або не підтримує цифрове кадрування. Використовуйте інший додаток</string>
 
     <!-- TRDS -->
-    <string name="theme_settings_title">Темна тема</string>
+    <string name="theme_settings_title">TRDS</string>
     <string name="theme_auto_mode_title">Переключити тему</string>
     <string name="theme_auto_mode_off">Вручну</string>
     <string name="theme_auto_mode_lightsensor">При зміні освітленості</string>
@@ -149,7 +149,7 @@
     <string name="theme_auto_switch_mode_error">Увімкнений режим автоматичної зміни тем оформлення при зміні освітленості. Ручне перемикання неможливо</string>
    
     <!-- TRDS tile -->
-    <string name="title_tile_theme">Перемикач тим</string>
+    <string name="title_tile_theme">Перемикач тем</string>
 
     <!-- Status bar | Clock -->
     <string name="status_bar_clock">Годинник і дата</string>
@@ -230,12 +230,18 @@
     <!--Notification peek-->
     <string name="notification_peek_title">Повідомлення при піднятті</string>
     <string name="notification_peek_summary">Показувати останнє повідомлення після підняття пристрої</string>
+    <string name="peek_wake_timeout_title">Тайм-аут очікування виходу зі сну</string>
     <string name="peek_pickup_timeout_title">Тайм-аут відображення повідомлення</string>
     <string name="peek_pickup_10seconds">10 секунд (за замовчуванням)</string>
     <string name="peek_pickup_30seconds">30 секунд</string>
     <string name="peek_pickup_45seconds">45 секунд</string>
     <string name="peek_pickup_60seconds">1 хвилина</string>
     <string name="peek_pickup_120seconds">2 хвилини</string>
+    <string name="peek_wake_3seconds">3 секунди</string>
+    <string name="peek_wake_5seconds">5 секунд (за замовчуванням)</string>
+    <string name="peek_wake_10seconds">10 секунд</string>
+    <string name="peek_wake_20seconds">20 секунд</string>
+    <string name="peek_wake_30seconds">30 секунд</string>
 
     <!-- Wakelock blocker -->
     <string name="wakelock_blocker">Блокування вейклоків</string>
@@ -314,8 +320,10 @@
     <!-- Summary for "Configure lockscreen" when security gesture is enabled [CHAR LIMIT=45] -->
     <string name="unlock_set_unlock_mode_gesture">Жест</string>
 
+    <!-- Extra display settings -->
+    <string name="extra_display_settings_title">Додаткові налаштування</string>
     <!-- Screen recorder -->
-    <string name="screen_recorder_title">Запис з екрана</string>
+    <string name="screen_recorder_title">Запис з екрану</string>
     <string name="screen_recorder_summary">Налаштування параметрів запису з екрану</string>
     <string name="screen_recorder_video_dimensions_title">Розмір відео</string>
     <string name="screen_recorder_video_bitrate_title">Бітрейт</string>
@@ -440,6 +448,7 @@
     <string name="smart_pulldown_off">Вимк</string>
     <string name="smart_pulldown_dismissable">видаляємих</string>
     <string name="smart_pulldown_persistent">постійних</string>
+    <string name="smart_pulldown_all">видаляємих або постійних</string>
 
     <!-- Display : Animation options -->
     <string name="screen_and_animations_title">Екран і анімація</string>
@@ -448,7 +457,7 @@
     <!-- ListView animation -->
     <string name="bars_and_menus_category_system_title">Система</string>
     <string name="listview_animation_title">Вибрати анімацію для списків</string>
-    <string name="listview_off">Вимкнена</string>
+    <string name="listview_off">Вимкнено</string>
     <string name="listview_wave_left">Хвиля (Зліва)</string>
     <string name="listview_wave_right">Хвиля (Праворуч)</string>
     <string name="listview_alpha">Прозорість</string>
@@ -463,8 +472,8 @@
     <!-- ListView interpolator -->
     <string name="listview_interpolator_title">Вибрати інтерполятор для списків</string>
     <string name="listview_accelerate_interpolator">Прискорений</string>
-    <string name="listview_decelerate_interpolator">Уповільнений</string>
-    <string name="listview_accelerate_decelerate_interpolator">Прискорено-уповільнений</string>
+    <string name="listview_decelerate_interpolator">Сповільнений</string>
+    <string name="listview_accelerate_decelerate_interpolator">Прискорено-сповільнений</string>
     <string name="listview_anticipate_interpolator">Пророкуючий</string>
     <string name="listview_overshoot_interpolator">Помиляючийся</string>
     <string name="listview_anticipate_overshoot_interpolator">Пророкуючо-помиляючийся</string>
@@ -612,7 +621,7 @@
     <string name="trigger_width_title">Ширина тригера</string>
     <string name="trigger_width_summary">Регулювання ширини області тригера</string>
     <string name="trigger_top_title">Положення тригера</string>
-    <string name="trigger_top_summary">Регулювання вертикальній позиції області тригера</string>
+    <string name="trigger_top_summary">Регулювання вертикальної позиції області тригера</string>
     <string name="trigger_bottom_title">Висота тригера</string>
     <string name="trigger_bottom_summary">Регулювання висоти області тригера</string>
 
