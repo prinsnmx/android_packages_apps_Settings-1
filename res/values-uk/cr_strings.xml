@@ -250,7 +250,7 @@
     <string name="wakelock_blocker_save">Зберегти</string>
     <string name="wakelock_list_header">Доступні вейклоки</string>
     <string name="wakelock_blocker_reload">Перезавантажити</string>
-    <string name="wakelock_blocker_warning_title">Діяти з обережністю</string>
+    <string name="wakelock_blocker_warning_title">Будьте обережні</string>
     <string name="wakelock_blocker_warning">Блокування вейклоків потенційно може привести до нестабільної роботи пристрою, збою або втрати даних</string>
 	
     <!-- Lock Gesture settings -->
@@ -391,11 +391,11 @@
     <!-- Breathing Notifications -->
     <string name="breathing_notifications_title">\"Живі\" повідомлення</string>
     <string name="sms_breath_title">\"Живе\" СМС-повідомлення</string>
-    <string name="sms_breath_summary">Додасть \"ефект дихання\" вашому смс-повідомленням в рядку стану</string>
+    <string name="sms_breath_summary">Додасть \"ефект дихання\" вашому смс-повідомленню в рядку стану</string>
     <string name="missed_call_breath_title">\"Живий\" пропущений виклик</string>
-    <string name="missed_call_breath_summary">Додасть \"ефект дихання\" вашого повідомлення про пропущені дзвінки в рядку стану</string>
+    <string name="missed_call_breath_summary">Додасть \"ефект дихання\" вашому повідомленню про пропущені дзвінки в рядку стану</string>
     <string name="voicemail_breath_title">\"Жива\" голосова пошта</string>
-    <string name="voicemail_breath_summary">Додасть \"ефект дихання\" вашого повідомлення про голосову пошту в рядку стану</string>
+    <string name="voicemail_breath_summary">Додасть \"ефект дихання\" вашому повідомленню про голосову пошту в рядку стану</string>
 
     <!-- Volume Steps -->
     <string name="volume_steps_title">Рівні гучності</string>
@@ -509,7 +509,7 @@
     <string name="lockscreen_frame_color_title">Колір рамки</string>
     <string name="lockscreen_frame_color_summary">Колір рамки і фону екрану розблокування</string>
     <string name="lockscreen_lock_color_title">Колір замку</string>
-    <string name="lockscreen_lock_color_summary">Колір іконки замку в слайдері розблокування</string>
+    <string name="lockscreen_lock_color_summary">Колір іконки замка в слайдері розблокування</string>
     <string name="lockscreen_dots_color_title">Колір точок</string>
     <string name="lockscreen_dots_color_summary">Колір світяться точок навколо слайдера розблокування</string>
 
@@ -543,7 +543,7 @@
     <string name="lockscreen_background_style_title">Фон екрану блокування</string>
     <string name="background_color_fill_title">Колір фону</string>
     <string name="background_default">Шпалери за замовчуванням</string>
-    <string name="background_color_fill">Колір заливки</string>
+    <string name="background_color_fill">Колір фону</string>
     <string name="background_wallpaper">Користувальницькі шпалери</string>
     <string name="transparency">Прозорість фону</string>
     <string name="background_result_successful">Фон змінився</string>
@@ -566,7 +566,7 @@
     <string name="identicons_remove_service_running_title">Видалення аватарок</string>
     <string name="identicons_remove_service_running_summary"></string>
     <string name="identicons_remove_service_contact_summary">Обробка фото %1$d/%2$d</string>
-    <string name="identicons_remove_service_contact_summary_finishing">Усунення недоробок ...</string>
+    <string name="identicons_remove_service_contact_summary_finishing">Усунення недоліків ...</string>
     <string name="identicons_style_retro">Ретро</string>
     <string name="identicons_style_contemporary">Сучасний</string>
     <string name="identicons_style_spirograph">Спірограф</string>
@@ -600,7 +600,7 @@
     <!-- Buttons in Rename gesture dialog box -->
     <string name="ga_cancel_action">Скасувати</string>
     <!-- Message displayed when the user opens the gestures settings screen -->
-    <string name="ga_gestures_loading">Завантаження жестів ...</string>
+    <string name="ga_gestures_loading">Завантаження жестів...</string>
     <!-- Message displayed when the user has no gestures -->
     <string name="ga_gestures_empty">Немає жестів</string>
     <!-- Title of the screen used to view/manage gestures -->
